@@ -1,3 +1,3 @@
 # New
 HTML,CSS,JAVA SCRIPT
-Owner: Mohid Sufi
+Owner: Mohid Sufi Naveed
